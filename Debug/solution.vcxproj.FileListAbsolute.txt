@@ -1,2 +1,0 @@
-C:\Users\letov\source\repos\solution\Debug\solution.exe
-C:\Users\letov\source\repos\solution\Debug\solution.pdb
